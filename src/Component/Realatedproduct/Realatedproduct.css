@@ -1,0 +1,17 @@
+.relatedproduct{
+   margin-top: 50px;
+}
+.relatedproduct_item{
+    display: flex;
+    gap: 10px;
+    justify-content: space-around;
+}
+.relatedpro_heading h1{
+    text-align: center;
+    font-size: 50px;
+}
+.product_healding{
+    width: 400px;
+    position: relative;
+    bottom: 30px;
+}

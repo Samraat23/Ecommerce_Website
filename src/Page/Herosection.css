@@ -1,0 +1,48 @@
+.handimg{
+    width: 70px;
+    height: 70px;
+    position: relative;
+    left: 20px;
+    top: 10px;
+}
+.heoimg{
+    width: 400px;
+    height: 500px;
+}
+.herosection{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    position: relative;
+    top: 70px;
+    
+}
+.hero{
+    background: linear-gradient(180deg , #fde1ff , #e1ffea22 60%);
+    height: 100vh;
+}
+.content{
+    width: 650px;
+    font-size: 35px;
+}
+.btn_letst{
+    position: relative;
+    top: -30px;
+    width: 250px;
+    height: 60px;
+    border-radius: 75px;
+    outline: none;
+    border: 1px solid white;
+    background-color: rgb(233, 76, 76);
+    color: rgba(255, 255, 255, 1);
+    font-size: 20px;
+}
+.left_side{
+    margin-left: 35px;
+}
+.left_side p{
+    position: absolute;
+    font-size: 20px;
+    font-weight: 600;
+    color: #090909;
+}

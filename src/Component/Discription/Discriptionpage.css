@@ -1,0 +1,33 @@
+.discriptionpage{
+    margin: 10px 80px;
+}
+
+.dis_reivew{
+    display: flex;
+    gap: 0px;
+}
+.discription_con{
+    width: 130px;
+    height: 40px;
+    font-size: 18px;
+    border: 1px solid #888;
+    display: flex;
+    cursor: pointer;
+    justify-content: center;
+    align-items: center;
+}
+.review_content{
+    width: 130px;
+    height: 40px;
+    font-size: 18px;
+    cursor: pointer;
+    border: 1px solid #888;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.discription_contetnt_box{
+    border: 1px solid #888;
+    padding: 20px;
+    font-size: 20px;
+}

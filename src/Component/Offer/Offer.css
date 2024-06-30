@@ -1,0 +1,38 @@
+.offer{
+    width: 65%;
+    background-color: aqua;
+    display: flex;
+    height: 60vh;
+    margin: auto;
+    padding: 0px 140px;
+    margin-top: 130px;
+    justify-content: space-around;
+    gap: 200px;
+    background: linear-gradient(180deg , #fde1ff , #e1ffea22 60%);
+}
+.right_sideoff button{
+    width: 200px;
+    height: 50px;
+    background-color: #FF4141;
+    border-radius: 65px;
+    border: 1px solid white;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 1);
+    position: relative;
+    bottom: 30px;
+}
+.right_sideoff h2{
+    font-size: 50px;
+}
+.right_sideoff p{
+    font-size: 18px;
+    position: relative;
+    bottom: 30px;
+    font-weight: 600;
+
+}
+.left_sideoff img{
+    height: 350px;
+}
